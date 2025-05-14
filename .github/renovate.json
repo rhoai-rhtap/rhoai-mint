@@ -6,7 +6,7 @@
          "ignoreTests": true,
          "automergeType": "pr",
          "automerge": true,
-         "enabledManagers": ["tekton"],
+         "enabledManagers": ["tekton", "custom.regex"],
          "tekton": {
            "schedule": ["at any time"],
            "fileMatch": ["\\.yaml$", "\\.yml$"],
