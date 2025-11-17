@@ -9,7 +9,7 @@
 #        - This is to ensure exact digest updates based on the tag versioning
 additionalImages:
   - name: RELATED_IMAGE_TOOLBOX_LATEST_IMAGE
-    value: "registry.redhat.io/ubi9/toolbox:latest@sha256:3128d73153fa3e1875e29cd1468d2dda7876bebe4590260813f7ffaad4acbf28"
+    value: "registry.redhat.io/ubi9/toolbox:latest@sha256:9fe904b524edc6c3f5c6570f5067697ad6b14cb8626acd441817db57dc9f9abd"
   - name: RELATED_IMAGE_INSTRUCTLAB_NVIDIA_RHEL9_LATEST_IMAGE
     value: "registry.redhat.io/rhelai1/instructlab-nvidia-rhel9:1.45@sha256:977992b191be2484c4fa2442a2a4001657e6c3f80350077e885935a6936db830"
   - name: RELATED_IMAGE_PROXYV2_RHEL9_2_6_IMAGE
