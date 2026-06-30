@@ -17,4 +17,4 @@ additionalImages:
   - name: RELATED_IMAGE_MARIADB_105_LATEST_IMAGE
     value: "registry.redhat.io/rhel9/mariadb-105:latest@sha256:451583e8509429468577283407a33e29411f56e343f7381f7d722f8488de0fe9"
   - name: RELATED_IMAGE_OSE_OAUTH_PROXY_RHEL9_LATEST_IMAGE
-    value: "registry.redhat.io/openshift4/ose-oauth-proxy-rhel9:latest@sha256:f9bdb83325fa55b04889e8891a4f89302a81aa5a0bd0648c86e652df430f557b"
+    value: "registry.redhat.io/openshift4/ose-oauth-proxy-rhel9:latest@sha256:2731c51e5bbb89525653cc100a6bba9efd91b5f2812442914c5947da341c96ab"
